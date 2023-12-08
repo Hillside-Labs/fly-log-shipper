@@ -4,7 +4,7 @@
 #
 
 app = "hl-fly-log-shipper"
-primary_region = "sea"
+primary_region = "dfw"
 
 [build]
 
